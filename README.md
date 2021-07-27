@@ -7,7 +7,7 @@ Please, read the [wiki](https://github.com/fremag/MemoScope.Net/wiki) to know ev
 Lot of pictures, animated gifs and some text for every major features.
 
 # TLDR
-## What it MemoScope.Net ?
+## What it MemoScope.Net  ?
 It's a tool to analyze .Net process memory: it can dump an application's memory in a file and read it later.
 The dump file contains all data (objects) and threads (state, stack, call stack)
 
